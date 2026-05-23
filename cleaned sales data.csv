@@ -1,0 +1,11 @@
+Customer_ID,Customer_Name,City,Sales
+1,John,Chennai,5000.0
+2,Alice,Mumbai,7000.0
+3,Bob,Not Available,4500.0
+4,John,Chennai,5000.0
+5,Unknown,Delhi,6200.0
+6,David,Bangalore,5933.333333333333
+7,Emma,Hyderabad,7200.0
+8,Alice,Mumbai,7000.0
+9,Chris,Pune,5400.0
+10,Ravi,Not Available,6100.0
